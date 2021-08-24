@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AdemideCole
 - 👀 I’m interested in data analysis
 - 🌱 I’m currently learning SQL,Excel,Tableau & Python
-- 💞️ I’m looking to network with other data analysts, share ideas and secure my first job.
+- 💞️ I’m looking to network with other data analysts, share ideas 
 - 📫 How to reach me ademidecole@gmail.com
 
 <!---
